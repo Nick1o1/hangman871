@@ -7,4 +7,13 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 
 1. Random choice from defined fruits list
 2. Asks user input and checks validity
-3. 
+
+
+## milestone_3
+
+1. Random choice from defined fruit list
+2. Asks user input and checks validity
+3. Checks if user input is in randomly generated word.
+
+
+
