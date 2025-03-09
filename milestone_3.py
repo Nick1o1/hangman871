@@ -1,17 +1,13 @@
 # %%
 import random
-
 # task_1 Define the list of fruits
 world_list = ["apple","banana", "pear", "orange", "kiwi"]
-print(world_list)
 
 # task_2 Method to randomly pick from the list
 def choice(fruit_list):
     return random.choice(fruit_list)
-
 # Call the method
 word = choice(world_list)
-print(word)
 
 # While loop to keep asking for letter
 def ask_for_input():
@@ -24,7 +20,6 @@ def ask_for_input():
         else:
             print ("Invalid letter. Please, enter a single alphabetical character.")
     check_guess(guess)
-
 
 
 # check if the letter is in the random choosen word
