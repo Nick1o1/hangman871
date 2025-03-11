@@ -15,5 +15,7 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 2. Asks user input and checks validity
 3. Checks if user input is in randomly generated word.
 
+## milestone_4
 
+1. hangman class checks input and fill up word.
 
