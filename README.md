@@ -3,7 +3,8 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 
 ## Description
 
-This is a simple command-line Hangman game implemented in Python. The game randomly selects a word from a predefined list, and the player has to guess the word one letter at a time before running out of lives.
+This is a simple command-line Hangman game implemented in Python. 
+The game randomly selects a word from a predefined list, and the player has to guess the word one letter at a time before running out of lives.
 
 ## Features
 
